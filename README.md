@@ -1,7 +1,8 @@
 # Station Obscurum
 *Explore-Endure-Encounter*
+
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://cdn.discordapp.com/attachments/1015823876451749889/1072337266590105610/spacestation.png)" />
+  <img src="https://cdn.discordapp.com/attachments/1015823876451749889/1072337266590105610/spacestation.png" />
 </p>
 
 ## Pitch
