@@ -1,7 +1,7 @@
 # Station Obscurum
 *Explore-Endure-Encounter*
 
-![image](https://cdn.discordapp.com/attachments/1015823876451749889/1072336998947356722/spacestation.png)
+![image](https://cdn.discordapp.com/attachments/1015823876451749889/1072337266590105610/spacestation.png)
 
 ## Pitch
 Play as an astronaut who ventures into an abandoned space station looking for parts to repair his damaged ship. As he ventures into the station a strange sense lurks into him. Almost like he is not alone... like there is somebody watching him in the darkness.
