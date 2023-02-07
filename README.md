@@ -5,7 +5,9 @@ Play as an astronaut who ventures into an abandoned space station looking for pa
 
 **Station Obscurum** is a 3D Dungeon Delving adventure game. Travel into the depths of the station, fight creepy monsters and station security to obtain the parts you need to repair your space ship.
 
+DM firez2469#5352 on the Discord for any questions.
+
 ## Unity Version
 2021.3.18f1
 
-DM firez2469#5352 on the Discord for any questions.
+
