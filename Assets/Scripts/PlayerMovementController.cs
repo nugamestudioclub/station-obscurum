@@ -14,6 +14,7 @@ public class PlayerMovementController : MonoBehaviour
     private bool isRunning = false;
     [SerializeField]
     private CharacterController ccontroller;
+    
     [SerializeField]
     private CameraController cameraController;
 
@@ -39,7 +40,10 @@ public class PlayerMovementController : MonoBehaviour
         ccontroller.Move(movement);
     }
 
-    
+    public void SetSpeed(float speed)
+    {
+        this.speed = speed;
+    }
 
     private void GetJumpOld()
     {
@@ -62,7 +66,7 @@ public class PlayerMovementController : MonoBehaviour
         animcontroller.Animate(new Vector2(x, y), false,isRunning);
         
        if(isRunning&&!Input.GetMouseButton(1))
-        SlowLookAt(cameraController.Forward);
+            SlowLookAt(cameraController.Forward);
     }
 
     void SlowLookAt(Vector3 targetVector)
